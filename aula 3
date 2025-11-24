@@ -1,0 +1,11 @@
+public class Main {
+    public static void main(String[] args) {
+        // O método principal é executado quando o programa inicia.
+
+        // Este comando imprime uma linha de texto no console (saída padrão).
+        System.out.println("Meu nome é: [Seu Nome Completo]"); 
+
+        // Exemplo:
+        // System.out.println("janiely lopes do nascimento");
+    }
+}
