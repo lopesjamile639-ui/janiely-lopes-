@@ -1,0 +1,11 @@
+// Arquivo: Main.java
+
+public class Main {
+    public static void main(String[] args) {
+        // Este é o método principal (main), o ponto de partida do seu programa Java.
+        System.out.println("Olá, este é o meu primeiro programa Java!");
+
+        // Comando para imprimir seu nome no console (tela)
+        System.out.println("Meu nome é: janiely lopes do nascimento "); 
+    }
+}
